@@ -1,0 +1,67 @@
+<connectors.xml>
+  <hashtable>
+    <entry>
+      <uuid>bd0a1906-ccf9-4b01-9d72-1f39d35b2708</uuid>
+      <org.bird.db.connectors.MongoConnector>
+        <id reference="../../uuid"/>
+        <name>Test Reussi 2</name>
+        <enumbdbc>MongoDB</enumbdbc>
+        <port>0</port>
+      </org.bird.db.connectors.MongoConnector>
+    </entry>
+    <entry>
+      <uuid>f72e7973-bbb5-4b8b-ae0c-62d73e43c194</uuid>
+      <org.bird.db.connectors.MongoConnector>
+        <id reference="../../uuid"/>
+        <name>Mongo Test 3</name>
+        <enumbdbc>MongoDB</enumbdbc>
+        <port>0</port>
+      </org.bird.db.connectors.MongoConnector>
+    </entry>
+    <entry>
+      <uuid>f8cd8c4a-bb0c-4d7e-9f01-1ec4be9dfe7e</uuid>
+      <org.bird.db.connectors.MongoConnector>
+        <id reference="../../uuid"/>
+        <name>Mongo Test 3</name>
+        <enumbdbc>MongoDB</enumbdbc>
+        <port>0</port>
+      </org.bird.db.connectors.MongoConnector>
+    </entry>
+    <entry>
+      <uuid>6f9d83f3-e588-4b1c-b979-2b10da5e353f</uuid>
+      <org.bird.db.connectors.MongoConnector>
+        <id reference="../../uuid"/>
+        <name>Mongo Test 3</name>
+        <enumbdbc>MongoDB</enumbdbc>
+        <port>0</port>
+      </org.bird.db.connectors.MongoConnector>
+    </entry>
+    <entry>
+      <uuid>3bd874e6-33da-43ab-aa8b-2a7aaffca668</uuid>
+      <org.bird.db.connectors.MongoConnector>
+        <id reference="../../uuid"/>
+        <name>Mongo Test 3</name>
+        <enumbdbc>MongoDB</enumbdbc>
+        <port>0</port>
+      </org.bird.db.connectors.MongoConnector>
+    </entry>
+    <entry>
+      <uuid>02b45478-dc4b-44c4-b008-40e16babeb28</uuid>
+      <org.bird.db.connectors.MongoConnector>
+        <id reference="../../uuid"/>
+        <name>Mongo Test 2</name>
+        <enumbdbc>MongoDB</enumbdbc>
+        <port>0</port>
+      </org.bird.db.connectors.MongoConnector>
+    </entry>
+    <entry>
+      <uuid>2ade0a4e-2d3d-4cf1-8df1-b7065f4cb267</uuid>
+      <org.bird.db.connectors.MongoConnector>
+        <id reference="../../uuid"/>
+        <name>Mongo Test 3</name>
+        <enumbdbc>MongoDB</enumbdbc>
+        <port>0</port>
+      </org.bird.db.connectors.MongoConnector>
+    </entry>
+  </hashtable>
+</connectors.xml>
